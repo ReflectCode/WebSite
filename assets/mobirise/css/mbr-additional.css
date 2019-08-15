@@ -1636,10 +1636,6 @@ body {
 .cid-romDkSNns5 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-romDkSNns5 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-romDkSNns5 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-romDkSNns5 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-romDkSNns5 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1650,7 +1646,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-romDkSNns5 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.6rem);
   }
 }
 .cid-romDkSNns5 .collapsed button.navbar-toggler {
@@ -1741,10 +1737,6 @@ body {
   .cid-romDkSNns5 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
-  .cid-romDkSNns5 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-romDkSNns5 .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
-  }
   .cid-romDkSNns5 .navbar-collapse.collapsing .navbar-buttons,
   .cid-romDkSNns5 .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1806,7 +1798,7 @@ body {
 }
 .cid-romDkSNns5 .nav-link:hover,
 .cid-romDkSNns5 .dropdown-item:hover {
-  color: #767676 !important;
+  color: #55b4d4 !important;
 }
 .cid-ronMIcaMrE {
   padding-top: 0px;
@@ -1816,32 +1808,8 @@ body {
 .cid-ronMIcaMrE P {
   color: #767676;
 }
-.cid-ronYuTeiV6 {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/gradientline-1913x23.png");
-}
-.cid-ronYuTeiV6 P {
-  color: #767676;
-}
-.cid-rphX8p5q1K {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/gradientline-1913x23.png");
-}
-.cid-rphX8p5q1K P {
-  color: #767676;
-}
-.cid-rphXjoRgwV {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #efefef;
-}
-.cid-rphXjoRgwV P {
-  color: #767676;
-}
 .cid-romyxNNicB {
-  padding-top: 105px;
+  padding-top: 135px;
   padding-bottom: 75px;
   background-image: url("../../../assets/images/backdrop-1870x670.png");
 }
@@ -2390,10 +2358,6 @@ body {
 .cid-romDkSNns5 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-romDkSNns5 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-romDkSNns5 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-romDkSNns5 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-romDkSNns5 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2404,7 +2368,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-romDkSNns5 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.6rem);
   }
 }
 .cid-romDkSNns5 .collapsed button.navbar-toggler {
@@ -2495,10 +2459,6 @@ body {
   .cid-romDkSNns5 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
-  .cid-romDkSNns5 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-romDkSNns5 .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
-  }
   .cid-romDkSNns5 .navbar-collapse.collapsing .navbar-buttons,
   .cid-romDkSNns5 .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -2560,7 +2520,7 @@ body {
 }
 .cid-romDkSNns5 .nav-link:hover,
 .cid-romDkSNns5 .dropdown-item:hover {
-  color: #767676 !important;
+  color: #55b4d4 !important;
 }
 .cid-rz9eqmCPAw {
   padding-top: 105px;
@@ -2813,10 +2773,6 @@ body {
 .cid-romDkSNns5 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-romDkSNns5 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-romDkSNns5 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-romDkSNns5 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-romDkSNns5 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2827,7 +2783,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-romDkSNns5 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.6rem);
   }
 }
 .cid-romDkSNns5 .collapsed button.navbar-toggler {
@@ -2918,10 +2874,6 @@ body {
   .cid-romDkSNns5 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
-  .cid-romDkSNns5 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-romDkSNns5 .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
-  }
   .cid-romDkSNns5 .navbar-collapse.collapsing .navbar-buttons,
   .cid-romDkSNns5 .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -2983,7 +2935,7 @@ body {
 }
 .cid-romDkSNns5 .nav-link:hover,
 .cid-romDkSNns5 .dropdown-item:hover {
-  color: #767676 !important;
+  color: #55b4d4 !important;
 }
 .cid-rz9eqmCPAw {
   padding-top: 105px;
@@ -3236,10 +3188,6 @@ body {
 .cid-romDkSNns5 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-romDkSNns5 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-romDkSNns5 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-romDkSNns5 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-romDkSNns5 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -3250,7 +3198,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-romDkSNns5 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.6rem);
   }
 }
 .cid-romDkSNns5 .collapsed button.navbar-toggler {
@@ -3341,10 +3289,6 @@ body {
   .cid-romDkSNns5 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
-  .cid-romDkSNns5 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-romDkSNns5 .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
-  }
   .cid-romDkSNns5 .navbar-collapse.collapsing .navbar-buttons,
   .cid-romDkSNns5 .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -3406,7 +3350,7 @@ body {
 }
 .cid-romDkSNns5 .nav-link:hover,
 .cid-romDkSNns5 .dropdown-item:hover {
-  color: #767676 !important;
+  color: #55b4d4 !important;
 }
 .cid-rz9eqmCPAw {
   padding-top: 105px;
