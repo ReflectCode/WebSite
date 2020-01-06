@@ -1902,6 +1902,98 @@ body {
     width: 100% !important;
   }
 }
+.cid-rMIFA6q1Sn {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rMIFA6q1Sn .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rMIFA6q1Sn .mbr-content-text {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-rMIFA6q1Sn .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rMIFA6q1Sn .img-text {
+  width: 24px;
+  height: 24px;
+  font-size: 12px;
+  border: 2px solid #c1c1c1;
+  border-radius: 50%;
+}
+@media (min-width: 992px) {
+  .cid-rMIFA6q1Sn .cards-block {
+    border-top: 2px solid #c1c1c1;
+  }
+}
+.cid-rMIFA6q1Sn .cards-block .card {
+  border-bottom: 2px solid #c1c1c1;
+  border-radius: 0;
+}
+.cid-rMIFA6q1Sn .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+.cid-rMIFA6q1Sn .media-block {
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .cid-rMIFA6q1Sn .media-block {
+    padding-left: 2rem;
+  }
+}
+.cid-rMIFA6q1Sn .cards-block {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+@media (max-width: 991px) {
+  .cid-rMIFA6q1Sn .media-block {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+    padding-left: 0;
+    padding-bottom: 2rem;
+  }
+}
+.cid-rMIFA6q1Sn .media-container-row {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+.cid-rMIFC3IjCZ {
+  background: #ffffff;
+}
+.cid-rMIFC3IjCZ .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rMIFC3IjCZ .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rMIFC3IjCZ figcaption {
+  position: relative;
+}
+.cid-rMIFC3IjCZ figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rMIFC3IjCZ .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rzbZ2cEOaB {
   padding-top: 30px;
   padding-bottom: 45px;
