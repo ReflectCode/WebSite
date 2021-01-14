@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.reflectcode.com/index.html</loc>
-	</url>
-	<url>
 		<loc>https://www.reflectcode.com/privacypolicy.html</loc>
 	</url>
 	<url>
@@ -22,5 +19,20 @@
 	</url>
 	<url>
 		<loc>https://www.reflectcode.com/recognition.html</loc>
+	</url>
+	<url>
+		<loc>https://www.reflectcode.com/a2ios.html</loc>
+	</url>
+	<url>
+		<loc>https://www.reflectcode.com/indexbak.html</loc>
+	</url>
+	<url>
+		<loc>https://www.reflectcode.com/index.html</loc>
+	</url>
+	<url>
+		<loc>https://www.reflectcode.com/a2a+.html</loc>
+	</url>
+	<url>
+		<loc>https://www.reflectcode.com/showcase.html</loc>
 	</url>
 </urlset>
