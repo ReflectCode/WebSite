@@ -12,9 +12,6 @@
 		<loc>https://www.reflectcode.com/about.html</loc>
 	</url>
 	<url>
-		<loc>https://www.reflectcode.com/faq.html</loc>
-	</url>
-	<url>
 		<loc>https://www.reflectcode.com/404.html</loc>
 	</url>
 	<url>
@@ -37,5 +34,8 @@
 	</url>
 	<url>
 		<loc>https://www.reflectcode.com/CaseStudy01.html</loc>
+	</url>
+	<url>
+		<loc>https://www.reflectcode.com/Android-13-Compliance.html</loc>
 	</url>
 </urlset>
